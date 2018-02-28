@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\FPS.js">
+    <Files>
+      <File FileName="Assets\Scripts\Player\SBubbleGun.js" Line="130" Column="2" />
+      <File FileName="Assets\Scripts\Bullets\BulletCollision.js" Line="3" Column="21" />
+      <File FileName="Assets\Scripts\Player\FPS.js" Line="3" Column="13" />
+      <File FileName="Assets\Scripts\Level\OilSpill.js" Line="8" Column="23" />
+      <File FileName="Assets\Scripts\Bullets\HomingBullet.js" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
