@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5001f8ed683b697439c75f81a9090c62
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ballPoppingSound: {fileID: 8300000, guid: 275e92b5171986f4584237631444eaea, type: 3}
+  - BallShadow: {fileID: 100000, guid: ae5b10f42910e744daa8ac190b982d8e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
